@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repotest4", "repotest4.csproj", "{8A994E25-E8D6-4C8D-8DAE-6AD57B397320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A994E25-E8D6-4C8D-8DAE-6AD57B397320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A994E25-E8D6-4C8D-8DAE-6AD57B397320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A994E25-E8D6-4C8D-8DAE-6AD57B397320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A994E25-E8D6-4C8D-8DAE-6AD57B397320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4741414-A92B-489A-9211-2C5838F93850}
+	EndGlobalSection
+EndGlobal
